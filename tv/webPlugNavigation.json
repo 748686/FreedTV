@@ -107,7 +107,7 @@
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
-            "imgCss": "div > a",
+            "imgCss": "div.thumb > a",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
@@ -116,11 +116,11 @@
             "mainCss": "ul.stui-vodlist__media",
             "mainListIndex": 0,
             "nameAttr": "title",
-            "nameCss": "div > a",
+            "nameCss": "div.thumb > a",
             "nameIndex": 0,
             "searchListCss": "ul.stui-vodlist__media > li",
             "urlAttr": "href",
-            "urlCss": "div > a",
+            "urlCss": "div.thumb > a",
             "urlIndex": 0
           },
           "video": {
