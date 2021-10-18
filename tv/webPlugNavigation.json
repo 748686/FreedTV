@@ -283,7 +283,7 @@
             "nameIndex": 0,
             "searchListCss": "ul > li",
             "urlAttr": "href",
-            "urlCss": "div.1 > div.pack-packcover >a",
+            "urlCss": "div.1 > div.pack-packcover > a",
             "urlIndex": 0
           },
           "video": {
