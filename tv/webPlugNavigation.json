@@ -16,6 +16,7 @@
         "nav_url": "https://www.juztv.com/vodtype/navCate-navPage.html",
         "cate_url": "https://www.wydcn.com/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "桔子TV",
+	 "search":true,
         "kw": "wd",
         "params": [
           {
@@ -177,6 +178,7 @@
         "nav_url": "http://vipmv.tv/vodshow/navCate--------navPage---.html",
         "cate_url": "http://vipmv.tv/vodshow/cateNav-catearea------catePage---cateYear.html",
         "web_name": "追剧TV",
+	"search":true,
         "kw": "wd",
         "params": [
           {
@@ -340,6 +342,7 @@
         "nav_url": "http://gudanys.com/vodtype/navCate-navPage.html",
         "cate_url": "http://gudanys.com/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "孤单影院",
+	"search":true,
         "kw": "wd",
         "params": [
           {
@@ -503,6 +506,7 @@
         "nav_url": "https://vip.sb/index.php/vod/show/id/navCate/page/navPage.html",
         "cate_url": "http://gudanys.com/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "孤单影院",
+	"search":true,
         "kw": "wd",
         "params": [
           {
@@ -664,6 +668,7 @@
         "nav_url": "https://www.novipnoad.com/navCate/page/navPage/",
         "cate_url": "https://www.novipnoad.com/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "NO视频",
+	"search":true,
         "kw": "wd",
         "params": [
           {
@@ -839,6 +844,7 @@
         "nav_url": "https://www.pianku.li/navCate/------navPage.html",
         "cate_url": "https://www.pianku.li/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "片库",
+	"search":true,
         "kw": "wd",
         "params": [
           {
@@ -958,6 +964,7 @@
         "nav_url": "http://www.9rmb.com/type/navCate/navPage.html",
         "cate_url": "http://1090ys1.com/whole/cateNav_cateArea_cateCate__cateYear___0_id_catePage.html",
         "web_name": "94神马",
+	"search":true,
         "kw": "wd",
         "params": [
           {
@@ -1076,6 +1083,7 @@
         "nav_url": "https://nfxhd.com/vodtype/navCate-navPage/",
         "cate_url": "",
         "web_name": "奈非",
+	"search":true,
         "kw": "wd",
         "params": [
           {
@@ -1192,6 +1200,7 @@
         "nav_url": "https://aidi.tv/show/navCate--------navPage---.html",
         "cate_url": "",
         "web_name": "爱迪影院",
+	"search":true,
         "kw": "wd",
         "params": [
           {
@@ -1318,6 +1327,7 @@
         "nav_url": "https://www.4kyu.cc/vodshow/navCate--------navPage---.html",
         "cate_url": "https://www.4kyu.cc/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "一只鱼",
+	"search":true,
         "kw": "wd",
         "params": [
           {
@@ -1446,6 +1456,7 @@
         "nav_url": "https://www.9ehao.com/vodshow/navCate/page/navPage",
         "cate_url": "https://9ehao.com/vodshow/cateNav/area/cateArea/page/catePage/year/cateYear/class/cateCate",
         "web_name": "9亿看看",
+	"search":true,
         "kw": "wd",
         "params": [
           {
@@ -1565,7 +1576,8 @@
         "search_url": "https://www.o8tv.com/index.php/vod/search.html?wd={kw}",
         "nav_url": "https://www.o8tv.com/index.php/vod/show/id/navCate/page/navPage.html",
         "cate_url": "",
-        "web_name": "555电影",
+        "web_name": "555电影", 
+	"search":true,
         "kw": "wd",
         "params": [
           {
@@ -1700,6 +1712,7 @@
         "nav_url": "https://www.qianoo.cn/navCate/page/navPage",
         "cate_url": "",
         "web_name": "长资源",
+	"search":true,
         "kw": "wd",
         "params": [
           {
@@ -1820,6 +1833,7 @@
         "nav_url": "https://www.zhaikanys.com/vodshow/navCate--------navPage---.html",
         "cate_url": "https://www.zhaikanys.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "宅看影视",
+	"search":true,
         "kw": "wd",
         "params": [
           {
@@ -2024,7 +2038,7 @@
                 "search_url":"https://www.9ehao.com/vod/search.html?wd={kw}&submit=",
                 "nav_url":"https://www.9ehao.com/vodshow/navCate/page/navPage",
                 "web_name":"9亿看看",
-                "search":false,
+                 "search":true,
                 "navHtml":{
                     "name":[
                         "国语配音",
@@ -2210,7 +2224,7 @@
         "search_url": "https://www.555dy6.com/index.php/vod/search.html?wd={kw}",
         "nav_url": "https://www.555dy6.com/vodshow/navCate--------navPage---.html",
         "web_name": "大师兄影视",
-		"search":false,
+         "search":true,
         "navHtml": {
           "name": [
             "电影",
@@ -2298,7 +2312,7 @@
         "search_url": "https://dsxys.com/sb/ke7nhZe3c1{kw}-.html",
         "nav_url": "https://dsxys.com/type/navCate-navPage.html",
         "web_name": "555电影",
-		"search":false,
+         "search":true,
         "navHtml": {
           "name": [
             "电影",
@@ -2386,7 +2400,7 @@
         "search_url": "",
         "nav_url": "https://www.tkys.tv/vodtype/navCate-navPage.html",
         "web_name": "555电影",
-		"search":false,
+	 "search":true,
         "navHtml": {
           "name": [
             "电影",
