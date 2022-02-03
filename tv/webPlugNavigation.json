@@ -170,9 +170,9 @@
             "webOpen":false,
             "click":true,
             "webPlus":{
-                "search_url":"https://aidi.tv/vsearch/-------------.html?wd={kw}",
-                "nav_url":"https://aidi.tv/show/navCate--------navPage---.html",
-                "web_name":"爱迪",
+               "search_url": "http://vipmv.co/vod/search.html?wd={kw}",
+               "nav_url": "http://vipmv.co/vodshow/navCate--------navPage---.html",
+               "web_name": "追剧TV",
                 "search":true,
                 "navHtml":{
                     "name":[
