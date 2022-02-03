@@ -176,16 +176,18 @@
                 "search":true,
                 "navHtml":{
                     "name":[
+                        "推荐",
                         "电影",
                         "连续剧",
                         "综艺",
-                        "动漫"
+                        "动画"
                     ],
                     "cate":[
-                        "dianying",
-                        "lianxuju",
-                        "zongyi",
-                        "dongman"
+                        "20",
+                        "1",
+                        "2",
+                        "3",
+                        "4"
                     ],
                     "page":"1"
                 },
@@ -201,7 +203,7 @@
                     "episodes":{
                         "hasUrlPrefix":true,
                         "isListItemAttr":true,
-                        "listCss":"div.playlist_full",
+                        "listCss":"div.playlist_notfull",
                         "isMultiList":true,
                         "listCssMulti":"ul > li",
                         "listItemAttr":"href",
@@ -212,17 +214,17 @@
                     },
                     "nav":{
                         "descAttr":"",
-                        "descCss":"span.pic_text.text_right",
+                        "descCss":"span.pack-prb.hidden",
                         "descIndex":0,
                         "hasUrlPrefix":false,
                         "imgAttr":"data-original",
-                        "imgCss":"a",
+                        "imgCss":"a > div",
                         "imgIndex":0,
                         "isDescAttr":false,
                         "isImgAttr":true,
                         "isNameAttr":false,
                         "isUrlAttr":true,
-                        "mainCss":"ul.vodlist.vodlist_wi",
+                        "mainCss":"div.vodlist",
                         "mainListIndex":0,
                         "nameAttr":"title",
                         "nameCss":"a",
@@ -234,7 +236,7 @@
                     },
                     "search":{
                         "descAttr":"",
-                        "descCss":"span.pic_text.text_right",
+                        "descCss":"span.pack-prb",
                         "descIndex":0,
                         "hasUrlPrefix":false,
                         "imgAttr":"data-original",
