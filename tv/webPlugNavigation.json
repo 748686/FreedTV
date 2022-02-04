@@ -159,8 +159,9 @@
             "isFromWebView": false,
             "js": ""
           }
+	 }
         }
-      }
+      },
 	     {
             "name":"追剧(规则)",
             "pic":"https://imgpub.chuangkit.com/materials/2021/12/18/702e9f4a-017d-4410-97d3-a3bddd108bb9?x-oss-process=image/resize,w_200/format,webp",
@@ -258,7 +259,6 @@
                     }
                 }
             }
-        },
     },
       {
       "name": "追剧TV",
